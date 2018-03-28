@@ -1,0 +1,431 @@
+Puzzle number:	1
+solved:	True
+search time:	0.030020952224731445
+solution:	['CL1', 'OD3', 'RL1', 'QU1', 'AR1', 'PU1', 'RR1', 'CL2', 'BU1', 'RL2', 'QD3', 'AR1', 'XR3']
+branching factor:	10.322033898305085
+avg. function:	0.8983050847457628
+avg depth:	7.140287769784172
+min depth:	1
+max depth:	14
+
+
+Puzzle number:	2
+solved:	True
+search time:	0.05508303642272949
+solution:	['BD2', 'OL1', 'PU1', 'OL1', 'CU2', 'XR1', 'GR1', 'AD1', 'OL1', 'BU3', 'EL1', 'GL1', 'PD3', 'XR3']
+branching factor:	9.556962025316455
+avg. function:	1.139240506329114
+avg depth:	9.905956112852664
+min depth:	1
+max depth:	16
+
+
+Puzzle number:	3
+solved:	True
+search time:	0.06104540824890137
+solution:	['OU2', 'AR1', 'CR1', 'BU1', 'CL2', 'PU3', 'AR2', 'OD3', 'XR2', 'BU3', 'XL2', 'OU3', 'CR2', 'AL4', 'PD3', 'OD1', 'CL3', 'OD2', 'XR3']
+branching factor:	8.010309278350515
+avg. function:	1.1546391752577319
+avg depth:	10.06628242074928
+min depth:	1
+max depth:	20
+
+
+Puzzle number:	4
+solved:	True
+search time:	0.035547494888305664
+solution:	['OD3', 'XL1', 'AU3', 'QL1', 'BU4', 'RR1', 'XR1', 'OU3', 'QL2', 'RL1', 'PD1', 'RL2', 'PD2', 'XR3']
+branching factor:	9.363636363636363
+avg. function:	0.9727272727272728
+avg depth:	9.092783505154639
+min depth:	1
+max depth:	15
+
+
+Puzzle number:	5
+solved:	True
+search time:	0.017031192779541016
+solution:	['EL1', 'GD1', 'EL2', 'FL3', 'QD2', 'AR1', 'PU1', 'RL1', 'OD3', 'XR3']
+branching factor:	10.2
+avg. function:	1.3142857142857143
+avg depth:	7.490291262135922
+min depth:	1
+max depth:	11
+
+
+Puzzle number:	6
+solved:	True
+search time:	0.013027667999267578
+solution:	['RL2', 'OD2', 'PD2', 'XL1', 'EU3', 'DR1', 'FU1', 'RL1', 'QD1', 'XR4']
+branching factor:	9.851851851851851
+avg. function:	1.2222222222222223
+avg depth:	6.2748538011695905
+min depth:	1
+max depth:	11
+
+
+Puzzle number:	7
+solved:	True
+search time:	0.4093787670135498
+solution:	['FD1', 'CD4', 'IL2', 'ED1', 'BR1', 'DD1', 'BR1', 'EU2', 'XR1', 'IR3', 'AD4', 'IL2', 'FD1', 'XR1', 'IR3', 'XL3', 'AU1', 'IL1', 'DD1', 'XR3', 'IL1', 'XL2', 'CU1', 'DU1', 'AD1', 'IL2', 'FU1', 'ED2', 'BL3', 'DU1', 'EU2', 'XR3']
+branching factor:	10.654377880184331
+avg. function:	1.0829493087557605
+avg depth:	15.048983364140481
+min depth:	1
+max depth:	33
+
+
+Puzzle number:	8
+solved:	True
+search time:	0.02954268455505371
+solution:	['AL1', 'CU1', 'AL1', 'BL2', 'EU2', 'AL1', 'DU2', 'XR3', 'IU1', 'DD1', 'QL1', 'GL1', 'OD1', 'DU1', 'IU1', 'PL1', 'OD2', 'XR1']
+branching factor:	6.076086956521739
+avg. function:	1.1521739130434783
+avg depth:	11.297872340425531
+min depth:	1
+max depth:	20
+
+
+Puzzle number:	9
+solved:	True
+search time:	0.025037527084350586
+solution:	['OD1', 'XR1', 'PU3', 'QL1', 'DD3', 'EL2', 'XR2', 'AD1', 'BL1', 'DU1', 'FU1', 'CL1', 'FU1', 'XR1']
+branching factor:	7.75
+avg. function:	1.0735294117647058
+avg depth:	10.25
+min depth:	1
+max depth:	15
+
+
+Puzzle number:	10
+solved:	True
+search time:	0.16312623023986816
+solution:	['CL1', 'XR1', 'OU1', 'XR1', 'BD1', 'QR2', 'GR1', 'BD1', 'DR3', 'GL1', 'BU1', 'QL2', 'GR1', 'QR1', 'PD1', 'QR1', 'BD2', 'PU2', 'GL1', 'DL2', 'XL1', 'GR1', 'XL1', 'AR1', 'XR2', 'DR1', 'PD1', 'GL1', 'BU1', 'PU2', 'BD2', 'QL3', 'EU1', 'HL1', 'XL1', 'DL1', 'OD1', 'CR1', 'XL1', 'EU3', 'FL1', 'OD2', 'XR3']
+branching factor:	8.161473087818697
+avg. function:	0.9886685552407932
+avg depth:	22.318725099601593
+min depth:	1
+max depth:	44
+
+
+Puzzle number:	11
+solved:	True
+search time:	0.10610032081604004
+solution:	['OD3', 'RL1', 'XL1', 'AL1', 'BU3', 'QL1', 'EU4', 'RR2', 'QR1', 'BD4', 'QL2', 'XR1', 'OU1', 'AR1', 'QR2', 'OU2', 'QL3', 'ED3', 'PD2', 'AR3', 'PU2', 'QR1', 'OD3', 'XL1', 'EU2', 'QR2', 'BU4', 'RL2', 'QL2', 'ED2', 'XR1', 'OU3', 'RL1', 'QL1', 'PD3', 'AL1', 'XR3']
+branching factor:	7.930232558139535
+avg. function:	1.0996677740863787
+avg depth:	21.094117647058823
+min depth:	3
+max depth:	38
+
+
+Puzzle number:	12
+solved:	True
+search time:	0.07411646842956543
+solution:	['PD1', 'BR2', 'PU2', 'QL1', 'OD3', 'RR1', 'QL1', 'CU1', 'RR1', 'OU3', 'CU2', 'QR2', 'RR1', 'PD3', 'BL1', 'CU1', 'XR3', 'PU2', 'RL2', 'AD1', 'BL2', 'RR1', 'PU1', 'QL3', 'OD3', 'XR1']
+branching factor:	8.857777777777779
+avg. function:	1.7066666666666668
+avg depth:	16.710526315789473
+min depth:	5
+max depth:	26
+
+
+Puzzle number:	13
+solved:	True
+search time:	0.5525047779083252
+solution:	['DD1', 'PU2', 'IL1', 'EU1', 'DD1', 'IR1', 'XL1', 'OU1', 'ED2', 'IL1', 'FR1', 'GU1', 'IR2', 'PD2', 'XL2', 'GU2', 'HL1', 'IL1', 'KL1', 'FL1', 'OD3', 'XR1', 'PU2', 'IL1', 'DD1', 'FL1', 'CD2', 'BR2', 'GU1', 'AR1', 'PU1', 'CU1', 'FR1', 'DU1', 'IR1', 'XR1', 'PD3', 'AL1', 'XL2', 'DU3', 'FL1', 'HL1', 'CD2', 'XR4']
+branching factor:	8.564366632337796
+avg. function:	1.227600411946447
+avg depth:	25.55211726384365
+min depth:	7
+max depth:	45
+
+
+Puzzle number:	14
+solved:	False
+
+
+Puzzle number:	15
+solved:	True
+search time:	0.12415027618408203
+solution:	['IR1', 'QD1', 'HR1', 'RD1', 'QU1', 'XL1', 'FU1', 'GL1', 'QD1', 'XL1', 'AL1', 'EU1', 'GL1', 'PU1', 'OD1', 'DR1', 'EU2', 'PD2', 'BR1', 'DR1', 'FU2', 'XR2', 'RU1', 'HL1', 'IL1', 'PD1', 'QU1', 'HL1', 'IL1', 'OD1', 'XR2']
+branching factor:	6.0855614973262036
+avg. function:	2.3983957219251337
+avg depth:	19.0
+min depth:	7
+max depth:	32
+
+
+Puzzle number:	16
+solved:	True
+search time:	0.9177985191345215
+solution:	['GR4', 'FD2', 'GL2', 'FU1', 'EL1', 'GL1', 'DD3', 'GR3', 'DU1', 'GL1', 'FD1', 'PD1', 'GR1', 'XL1', 'EL1', 'GL1', 'CD1', 'BR1', 'XL2', 'PU3', 'GL1', 'FU1', 'QL1', 'OD3', 'BR1', 'FD1', 'QL1', 'CD3', 'BL1', 'QR1', 'OU3', 'QR1', 'PD2', 'FU1', 'GL2', 'PD1', 'ER3', 'XR3', 'FU2', 'PU1', 'DU2', 'GR1', 'PU2', 'QL1', 'OD3', 'FD1', 'GR1', 'XR1']
+branching factor:	9.631468531468531
+avg. function:	1.5125874125874126
+avg depth:	36.25701459034792
+min depth:	10
+max depth:	49
+
+
+Puzzle number:	17
+solved:	True
+search time:	0.515599250793457
+solution:	['BL1', 'OR2', 'FU1', 'GU1', 'PU2', 'RR2', 'GU1', 'FU1', 'QR3', 'DD1', 'XR1', 'RR1', 'AD1', 'OL2', 'DD1', 'ER1', 'AD3', 'OL1', 'AU2', 'BL1', 'PU1', 'AD2', 'EL1', 'DU1', 'XL1', 'RL2', 'PD1', 'OR3', 'DU3', 'RR2', 'QL1', 'GD1', 'QL1', 'FD1', 'ER1', 'AU1', 'RL3', 'FD1', 'XR1', 'AU1', 'QL1', 'PD2', 'XR3']
+branching factor:	9.194842406876791
+avg. function:	2.438395415472779
+avg depth:	27.26628895184136
+min depth:	4
+max depth:	44
+
+
+Puzzle number:	18
+solved:	True
+search time:	0.25018882751464844
+solution:	['RR3', 'DR3', 'QR2', 'DL1', 'PD1', 'XL1', 'BD4', 'QL2', 'XR1', 'DR1', 'PU1', 'CR1', 'DL1', 'QR2', 'PU1', 'DR1', 'AR1', 'PU1', 'QL3', 'OD2', 'CR3', 'AR3', 'OU2', 'QR1', 'PD3', 'DL1', 'QR2', 'BU1', 'RL2', 'DR1', 'RR1', 'XL1', 'RR1', 'BU3', 'RL2', 'DL3', 'QL2', 'RR2', 'QR1', 'RL1', 'DR3', 'XR1', 'PU3', 'DL4', 'QL2', 'RL2', 'OD3', 'XR3']
+branching factor:	8.149051490514905
+avg. function:	0.983739837398374
+avg depth:	27.96545768566494
+min depth:	1
+max depth:	49
+
+
+Puzzle number:	19
+solved:	True
+search time:	0.1130836009979248
+solution:	['DU2', 'OL1', 'FD1', 'EL2', 'OR1', 'ER3', 'XL2', 'OL1', 'AD2', 'BL1', 'JU1', 'AU1', 'EL3', 'FU1', 'ER1', 'FU1', 'OR3', 'EL1', 'AD3', 'XR2', 'ER2', 'DD4', 'EL2', 'AU1', 'XL2', 'BL2', 'AU3', 'OL1', 'XR2', 'ER2', 'DU3', 'OL1', 'FD1', 'XR2']
+branching factor:	7.644171779141105
+avg. function:	1.0920245398773005
+avg depth:	19.894736842105264
+min depth:	3
+max depth:	35
+
+
+Puzzle number:	20
+solved:	True
+search time:	0.9119091033935547
+solution:	['PU1', 'FR1', 'CD2', 'BR2', 'DU2', 'XR1', 'AD4', 'XR2', 'EU2', 'AU2', 'QL1', 'ED1', 'AD1', 'XL3', 'CU1', 'FL1', 'PD2', 'BR1', 'XR1', 'AU3', 'XL1', 'EU1', 'FL2', 'CD1', 'FL1', 'ED1', 'XR4']
+branching factor:	8.683834048640916
+avg. function:	1.4728183118741058
+avg depth:	28.185909980430527
+min depth:	1
+max depth:	56
+
+
+Puzzle number:	21
+solved:	True
+search time:	0.03206825256347656
+solution:	['RL2', 'PD2', 'RR1', 'QR2', 'XL1', 'BD3', 'XR1', 'RL1', 'PU2', 'AR1', 'RR2', 'BD1', 'PU1', 'QL3', 'OD2', 'AR3', 'OU2', 'QR3', 'PD3', 'BU1', 'RL2', 'XL1', 'BU3', 'QL2', 'XR1', 'PU3', 'RL1', 'QL1', 'OD3', 'XR3']
+branching factor:	6.362962962962963
+avg. function:	0.9629629629629629
+avg depth:	16.705882352941178
+min depth:	1
+max depth:	31
+
+
+Puzzle number:	22
+solved:	True
+search time:	0.3343684673309326
+solution:	['FU1', 'BU1', 'QL1', 'XL1', 'QR2', 'GR1', 'AD3', 'QL2', 'XR1', 'BD1', 'OL3', 'QR2', 'FD1', 'BD1', 'PU1', 'DD1', 'EL1', 'HU1', 'QR1', 'AD1', 'BU1', 'EL3', 'AU1', 'PD1', 'QL1', 'OR2', 'BU1', 'QR1', 'AD1', 'BD1', 'HU1', 'GR1', 'AU1', 'QL1', 'PD1', 'CL3', 'HU2', 'BU1', 'QR1', 'XL1', 'PU1', 'GL1', 'QL1', 'OL1', 'HD3', 'OR2', 'QR1', 'AD1', 'ER1', 'XR1', 'BD2', 'CL1', 'OL3', 'PU1', 'HU3', 'GR1', 'ER3', 'CR1', 'BU1', 'FU1', 'AU1', 'PD2', 'QL1', 'DU1', 'QL2', 'PD1', 'OR1', 'XR3']
+branching factor:	7.517910447761194
+avg. function:	1.0597014925373134
+avg depth:	45.05234657039711
+min depth:	4
+max depth:	69
+
+
+Puzzle number:	23
+solved:	True
+search time:	0.14215421676635742
+solution:	['QR1', 'CD1', 'AD1', 'BL3', 'AU1', 'CU1', 'QL3', 'DD1', 'EL1', 'PD1', 'OR1', 'AU1', 'XL3', 'AD1', 'OL3', 'PU1', 'ER1', 'DU4', 'FL1', 'QR3', 'EL1', 'PD1', 'CD1', 'FR1', 'EL3', 'CU1', 'QL1', 'DD3', 'OR3', 'AU1', 'QL2', 'XR3', 'AD1', 'QR3', 'CD1', 'OL2', 'AD1', 'BR3', 'AU1', 'OR2', 'AU1', 'XL2', 'ER1', 'DU1', 'FL1', 'EL1', 'PD1', 'CU1', 'QL3', 'PD1', 'BR1', 'XL1', 'DU1', 'QR2', 'CU1', 'FL3', 'DD2', 'CD1', 'BL1', 'XR1', 'QL1', 'XR3']
+branching factor:	6.565320665083135
+avg. function:	1.2446555819477434
+avg depth:	38.291358024691355
+min depth:	8
+max depth:	63
+
+
+Puzzle number:	24
+solved:	True
+search time:	2.5221521854400635
+solution:	['OR1', 'HR2', 'FR1', 'HL1', 'EU1', 'HL1', 'GU1', 'HR3', 'OL1', 'HL1', 'DU2', 'HL2', 'CU1', 'HR4', 'XL2', 'AD1', 'BL1', 'EU1', 'FL1', 'HL1', 'FL1', 'AD1', 'HL3', 'GD1', 'OR1', 'HR2', 'GU2', 'OR2', 'AD1', 'XR2', 'HR1', 'AD1', 'DD1', 'FR2', 'DD2', 'CD4', 'BL1', 'DU2', 'HR1', 'XL1', 'DU1', 'FL1', 'DD2', 'BR1', 'FR1', 'DD2', 'FL2', 'AU1', 'XL1', 'BL2', 'AU3', 'FR2', 'DU1', 'CU1', 'HL1', 'XR2', 'CU1', 'OL2', 'GD1', 'XR2']
+branching factor:	11.37061403508772
+avg. function:	1.006578947368421
+avg depth:	38.556109725685786
+min depth:	9
+max depth:	62
+
+
+Puzzle number:	25
+solved:	False
+
+
+Puzzle number:	26
+solved:	True
+search time:	0.4060788154602051
+solution:	['OL1', 'DU2', 'ED1', 'GU1', 'HR1', 'RL1', 'CD2', 'XR1', 'AD1', 'OL2', 'PU1', 'OR1', 'CD1', 'BU1', 'RR2', 'EU2', 'AD3', 'XL1', 'ED2', 'BD2', 'OL1', 'RL1', 'PD2', 'BU1', 'RL1', 'CU1', 'HL1', 'PU1', 'GD1', 'CU3', 'XR1', 'PU1', 'RR3', 'EU1', 'AU1', 'FU1', 'HL3', 'FD1', 'AU2', 'RL2', 'PD3', 'XR2']
+branching factor:	8.902214022140221
+avg. function:	1.0276752767527675
+avg depth:	24.59112959112959
+min depth:	1
+max depth:	43
+
+
+Puzzle number:	27
+solved:	True
+search time:	0.5399644374847412
+solution:	['PU2', 'ER1', 'OD2', 'CR2', 'BR2', 'DU2', 'XR1', 'FU1', 'RL3', 'OD1', 'AD1', 'XR2', 'DD1', 'BL3', 'DU1', 'XL2', 'OU1', 'RR3', 'FD1', 'AD2', 'XL1', 'DD2', 'CL3', 'DU2', 'OU2', 'AD1', 'XR1', 'EL4', 'FU1', 'RL2', 'PD3', 'XL1', 'RR1', 'OD2', 'DD1', 'BR4', 'DU1', 'BL1', 'RL1', 'PU2', 'RR2', 'FD1', 'DD2', 'CR3', 'DU2', 'BR1', 'PD1', 'FU1', 'RL2', 'PD1', 'CR1', 'OU1', 'DD1', 'BL4', 'DU1', 'OU1', 'XR1', 'RR1', 'PU1', 'RR1', 'FD1', 'ER1', 'AU3', 'OD1', 'EL1', 'FU1', 'RL1', 'PD1', 'RL2', 'OD2', 'XR3']
+branching factor:	7.3754752851711025
+avg. function:	1.841254752851711
+avg depth:	43.276885043263285
+min depth:	4
+max depth:	73
+
+
+Puzzle number:	28
+solved:	True
+search time:	0.12309122085571289
+solution:	['GR1', 'FR1', 'CD1', 'AD1', 'OR3', 'QU1', 'GR1', 'FR1', 'PU1', 'DD1', 'EL3', 'AD1', 'BL1', 'QU1', 'RR1', 'PD2', 'BL3', 'AU1', 'PU2', 'RL1', 'ER3', 'DU1', 'FL1', 'GL1', 'QD2', 'PD1', 'CU1', 'OL3', 'AU1', 'CD1', 'QU3', 'GR1', 'RR1', 'PD1', 'BR1', 'FR1', 'CU1', 'FL2', 'PD1', 'QD1', 'BL1', 'GL1', 'XR1', 'CU1', 'XR2', 'PU2', 'CD1', 'RL1', 'QD2', 'XR1']
+branching factor:	6.286259541984733
+avg. function:	2.2251908396946565
+avg depth:	33.75242718446602
+min depth:	2
+max depth:	50
+
+
+Puzzle number:	29
+solved:	True
+search time:	0.8628060817718506
+solution:	['BU2', 'ER1', 'GU4', 'FR1', 'EL1', 'RR2', 'HU1', 'CD1', 'RR1', 'DL1', 'AD1', 'FR1', 'AD2', 'XR1', 'DR1', 'CU3', 'DL1', 'EL1', 'PD1', 'GD1', 'OR1', 'PU1', 'CU1', 'XL1', 'ER1', 'AU1', 'RL2', 'HD1', 'ER1', 'AU2', 'FL3', 'AD2', 'GD2', 'AU1', 'FR1', 'RL1', 'AU1', 'GD1', 'EL2', 'PD3', 'OR1', 'HU1', 'BD1', 'OR1', 'AU1', 'XR3', 'AD1', 'OL2', 'BU1', 'XR1']
+branching factor:	8.14297124600639
+avg. function:	2.2763578274760383
+avg depth:	23.035688793718773
+min depth:	3
+max depth:	51
+
+
+Puzzle number:	30
+solved:	True
+search time:	0.1541149616241455
+solution:	['DR1', 'CR1', 'FR1', 'OD1', 'ER1', 'OD2', 'XL1', 'AD1', 'PL3', 'BU1', 'QU3', 'DR1', 'BD3', 'FR1', 'BD1', 'DL1', 'QD1', 'PR3', 'AU1', 'QD1', 'XR3', 'OU2', 'AD1', 'PL3', 'QU2', 'EL1', 'PR1', 'OU1', 'DR1', 'BU1', 'FL2', 'CL1', 'AD2', 'FR2', 'ER2', 'PR1', 'AU1', 'EL2', 'BD1', 'ER1', 'DL1', 'QD1', 'EL1', 'AD2', 'CR1', 'XL2', 'PL1', 'XR1', 'PR2', 'OD2', 'XR1', 'PL3', 'QU1', 'DR1', 'BU1', 'FL1', 'OU1', 'XL2', 'BU3', 'DL1', 'QD3', 'XR3']
+branching factor:	7.110236220472441
+avg. function:	1.2283464566929134
+avg depth:	37.2210953346856
+min depth:	1
+max depth:	63
+
+
+Puzzle number:	31
+solved:	True
+search time:	1.8663487434387207
+solution:	['AR1', 'DU2', 'XL1', 'QU1', 'RL2', 'PD1', 'QU1', 'RL1', 'FR3', 'QD1', 'PU1', 'RR3', 'QD1', 'XR1', 'DD3', 'XL1', 'QU2', 'RL3', 'PD1', 'AL1', 'RR2', 'FL2', 'DD1', 'QU1', 'EL2', 'BD2', 'CL1', 'EL1', 'QD1', 'RL1', 'OL1', 'CR1', 'BU1', 'FR2', 'QD1', 'CL4', 'RR1', 'QU1', 'FL2', 'BD1', 'OR1', 'BU2', 'FR2', 'QU1', 'ER3', 'QD1', 'PU2', 'RR1', 'QD2', 'CR1', 'PD1', 'OL1', 'PU2', 'ER1', 'FR1', 'BD2', 'CR2', 'DU1', 'XR3', 'QU2', 'RL3', 'BD1', 'QD1', 'EL1', 'CL2', 'DU1', 'CR1', 'PD1', 'OR1', 'DU1', 'CR1', 'QU2', 'EL3', 'BU1', 'RR3', 'QD1', 'AR1', 'RL2', 'DU1', 'QD1', 'CL1', 'RR2', 'QD1', 'XL2', 'BU1', 'FL1', 'XL1', 'QU1', 'RL3', 'PD2', 'CR2', 'QU1', 'FL2', 'BD1', 'FL1', 'RR1', 'PU1', 'RR2', 'QD2', 'CL1', 'XR3', 'QU2', 'RL1', 'PD1', 'XR1']
+branching factor:	7.638381201044386
+avg. function:	1.8585726718885989
+avg depth:	58.28860936408106
+min depth:	5
+max depth:	106
+
+
+Puzzle number:	32
+solved:	True
+search time:	0.1236722469329834
+solution:	['HR1', 'DD1', 'EL1', 'OD1', 'AR1', 'OD1', 'BD1', 'CL1', 'PU3', 'FR1', 'KU1', 'HR3', 'OD1', 'AL1', 'CL1', 'KD1', 'FL1', 'PD2', 'CR2', 'BU1', 'XR3', 'OU3', 'ER1', 'DU3', 'EL1', 'OD3', 'XL2', 'AR1', 'BD1', 'CL1', 'DU1', 'XL1', 'PU2', 'FR1', 'KU1', 'OU2', 'HL4', 'OD2', 'KD1', 'FL1', 'PD3', 'CR1', 'BU1', 'XR4']
+branching factor:	5.580645161290323
+avg. function:	2.1889400921658986
+avg depth:	32.142857142857146
+min depth:	6
+max depth:	45
+
+
+Puzzle number:	33
+solved:	True
+search time:	0.2501833438873291
+solution:	['BL1', 'PU3', 'ER1', 'GU1', 'QR1', 'ID1', 'DL1', 'GU2', 'EL2', 'PD3', 'BR1', 'GU1', 'FR1', 'HU3', 'ER1', 'RD1', 'FR1', 'PU2', 'QR2', 'RD2', 'PD1', 'XR1', 'GD1', 'BL2', 'HU1', 'PU2', 'ER1', 'FR1', 'GD2', 'XR2', 'AD1', 'BL2', 'RU3', 'DR1', 'IU3', 'QL3', 'DL1', 'GD1', 'RD2', 'BR2', 'GU1', 'QR3', 'AU1', 'IU1', 'RD1', 'XL2', 'GU2', 'EL1', 'FL1', 'XL1', 'RU2', 'QL3', 'PD3', 'FL3', 'RD1', 'PU3', 'QR3', 'RD1', 'ER1', 'GD2', 'XR3', 'ID1', 'RU1', 'QL3', 'AD1', 'GD1', 'EL1', 'PD3', 'XR1']
+branching factor:	6.62303664921466
+avg. function:	1.631762652705061
+avg depth:	36.98853868194843
+min depth:	4
+max depth:	70
+
+
+Puzzle number:	34
+solved:	True
+search time:	0.7596728801727295
+solution:	['XR1', 'HR1', 'DD1', 'QR1', 'CU1', 'RL2', 'CU1', 'AD1', 'QL1', 'RL1', 'BU1', 'QR2', 'AD1', 'PU1', 'XR2', 'AU1', 'QR1', 'EU2', 'IR1', 'AD2', 'ED1', 'XL2', 'IL1', 'XL1', 'EU2', 'QL2', 'IR1', 'AD1', 'QL1', 'PD1', 'DU2', 'FL3', 'DD1', 'CD3', 'PU1', 'HL1', 'PD3', 'BD1', 'RR3', 'EU1', 'PU1', 'HR1', 'XR1', 'DD1', 'QR1', 'AU4', 'XL1', 'QL1', 'BD1', 'XR1', 'FL1', 'BU1', 'DU1', 'HL1', 'PD1', 'XL1', 'IL1', 'HL1', 'ED1', 'RL2', 'HR1', 'IR1', 'RR1', 'PU3', 'HR1', 'RL1', 'IR1', 'CU3', 'IL2', 'DD1', 'IR1', 'QR3', 'ED2', 'XR1', 'AD1', 'RL1', 'BU1', 'IL1', 'ED1', 'QL2', 'PD2', 'QL1', 'DU1', 'HL1', 'PD1', 'XR3']
+branching factor:	7.8116071428571425
+avg. function:	2.04375
+avg depth:	49.59170305676856
+min depth:	1
+max depth:	87
+
+
+Puzzle number:	35
+solved:	True
+search time:	1.7415390014648438
+solution:	['PD3', 'GR1', 'KD1', 'PU3', 'QR2', 'OD1', 'AL3', 'BU1', 'OU1', 'QL1', 'PD3', 'QL2', 'EU1', 'FU4', 'GR2', 'EU1', 'DR1', 'GL2', 'PU3', 'GR3', 'DR2', 'ED1', 'GL3', 'ED1', 'QR1', 'KU1', 'QR2', 'GL1', 'OD3', 'AR1', 'XR1', 'KU3', 'XL1', 'OU2', 'GR1', 'BD1', 'FD1', 'AR2', 'OU1', 'QL1', 'PD1', 'AR1', 'BU1', 'QL2', 'EU1', 'GL1', 'EU1', 'DL4', 'FD2', 'PD2', 'ED2', 'DR1', 'FD1', 'QR2', 'BD1', 'AL1', 'PU3', 'QR1', 'DL1', 'OD3', 'AL2', 'BU1', 'XR3', 'KD2', 'AL1', 'OU3', 'QL2', 'PD3', 'XR1']
+branching factor:	8.363123644251626
+avg. function:	2.610412147505423
+avg depth:	42.73640167364017
+min depth:	1
+max depth:	70
+
+
+Puzzle number:	36
+solved:	True
+search time:	1.081099510192871
+solution:	['XR1', 'DD1', 'RR1', 'XL1', 'OD2', 'PL1', 'RR1', 'OU1', 'XR1', 'BD2', 'XL2', 'AL1', 'XR1', 'QU1', 'RR1', 'EU1', 'GR1', 'BU2', 'XR1', 'GL1', 'CR1', 'OD1', 'GR1', 'EU2', 'RL1', 'GL1', 'BD1', 'QD1', 'AR1', 'PR1', 'OU2', 'BU1', 'RL2', 'DU1', 'GR4', 'DD1', 'RR2', 'BD1', 'OD1', 'PL1', 'AL1', 'QU1', 'RR1', 'ED2', 'XL1', 'CL2', 'ED1', 'BD1', 'XL1', 'CR2', 'BD1', 'OD2', 'RL2', 'OU1', 'XR1', 'CL3', 'QD1', 'RR1', 'BU2', 'XR1', 'OD1', 'AR1', 'BD2', 'RL1', 'OU1', 'XL2', 'CR2', 'OD1', 'RR1', 'BU1', 'PR1', 'OU3', 'BD1', 'RL2', 'DU1', 'GL1', 'CL1', 'DU2', 'FL1', 'QD2', 'RR2', 'OD1', 'PL1', 'DU1', 'OD2', 'XR2', 'CL1', 'XR1']
+branching factor:	8.90791788856305
+avg. function:	0.9970674486803519
+avg depth:	79.24409448818898
+min depth:	21
+max depth:	89
+
+
+Puzzle number:	37
+solved:	True
+search time:	0.34027624130249023
+solution:	['XR1', 'GR1', 'QD1', 'XL2', 'BD1', 'CL2', 'PU1', 'OU1', 'RR2', 'BD2', 'XR2', 'QU1', 'GL1', 'BD1', 'XL1', 'RL2', 'PD1', 'OD1', 'CR2', 'XR1', 'AR1', 'DR1', 'XL1', 'QU2', 'RL1', 'EU4', 'HL1', 'XR1', 'FL1', 'PD2', 'XL1', 'RR1', 'QD2', 'AL1', 'DL1', 'ED1', 'CL1', 'DR1', 'QU1', 'CL1', 'OU1', 'QD1', 'RR1', 'PU3', 'FR1', 'RR1', 'BU1', 'GR1', 'FL1', 'HR1', 'QD1', 'XL1', 'HL1', 'DL1', 'BU2', 'RL2', 'PD3', 'FL1', 'OD2', 'CR1', 'BU1', 'CR1', 'EU1', 'XR1', 'QU1', 'GL1', 'XR1', 'HL1', 'OD1', 'XR2']
+branching factor:	6.63625304136253
+avg. function:	2.457420924574209
+avg depth:	62.654411764705884
+min depth:	53
+max depth:	71
+
+
+Puzzle number:	38
+solved:	True
+search time:	0.5624744892120361
+solution:	['OL1', 'RU2', 'GR1', 'ER1', 'CD2', 'OL1', 'BR2', 'DU1', 'FU1', 'QL3', 'CD1', 'EL1', 'RD1', 'OR2', 'DU1', 'XR3', 'AD1', 'DD1', 'OL2', 'RU1', 'ER1', 'OR1', 'CU1', 'QR1', 'AU1', 'QR2', 'FD1', 'DD1', 'BL1', 'AD3', 'OL2', 'AU1', 'BL2', 'DU1', 'FU1', 'AD1', 'QL3', 'CD1', 'EL1', 'RD1', 'OR3', 'DU1', 'XL3', 'DD1', 'OL3', 'RU1', 'ER1', 'CU1', 'QR3', 'CU3', 'EL1', 'RD1', 'GL1', 'FD1', 'EL2', 'GR1', 'CD3', 'OR3', 'DU1', 'XR3', 'DD1', 'OL1', 'AU1', 'RU1', 'AD2', 'EL1', 'RD1', 'DD1', 'OL2', 'BR3', 'DU1', 'ER1', 'AU3', 'EL1', 'FU1', 'QL3', 'OR3', 'AU1', 'DU1', 'QR1', 'XL2', 'CU1', 'GL1', 'RD2', 'BR1', 'XL1', 'QR1', 'CU1', 'FU1', 'GL3', 'CD2', 'FD1', 'XR4']
+branching factor:	6.900372439478585
+avg. function:	1.3649906890130354
+avg depth:	70.04131054131054
+min depth:	1
+max depth:	101
+
+
+Puzzle number:	39
+solved:	True
+search time:	1.6940085887908936
+solution:	['RD1', 'HR1', 'CD1', 'IR1', 'CD1', 'DR1', 'AD1', 'OL3', 'BU1', 'DL1', 'EL1', 'RU3', 'HR1', 'ER2', 'DR1', 'IR1', 'BD4', 'FU1', 'EL1', 'RD1', 'FD1', 'DL1', 'CU1', 'RU1', 'OR2', 'CD1', 'EL1', 'RD1', 'OR1', 'AU1', 'ER1', 'DR1', 'FU1', 'XR3', 'AD1', 'OL3', 'FD1', 'RU1', 'ER1', 'OR2', 'DR1', 'GU4', 'DL1', 'EL1', 'RD1', 'FU2', 'OR1', 'FU2', 'DL1', 'AU1', 'XL3', 'AD2', 'OL1', 'RU1', 'ER1', 'BU3', 'HL1', 'IL1', 'EL1', 'RD3', 'OR1', 'AU2', 'CU2', 'HL1', 'IL1', 'HL2', 'CD1', 'IL2', 'CD1', 'EL1', 'AD1', 'OL1', 'ER1', 'CU1', 'RU2', 'IR4', 'CD1', 'EL1', 'RU1', 'ER2', 'BD2', 'CU1', 'IL3', 'BD1', 'EL1', 'RD3', 'OR1', 'AU1', 'XR4']
+branching factor:	6.628227194492255
+avg. function:	1.5090361445783131
+avg depth:	45.987723214285715
+min depth:	1
+max depth:	94
+
+
+Puzzle number:	40
+solved:	True
+search time:	0.7601437568664551
+solution:	['PU1', 'IR1', 'ED1', 'QR3', 'FU1', 'HR1', 'CD2', 'AR1', 'OD3', 'AL2', 'OU2', 'DU1', 'OD1', 'XL2', 'OD1', 'XL1', 'DD1', 'BD1', 'AR3', 'DU1', 'XR1', 'OU3', 'HL1', 'FD1', 'QL1', 'PD1', 'AR1', 'XR1', 'CU3', 'QL2', 'EU1', 'IL1', 'XL1', 'EU3', 'IR1', 'GL1', 'QR2', 'IL1', 'PD2', 'XR1', 'CD3', 'XL1', 'ED1', 'AL1', 'PU3', 'IR1', 'GR1', 'QR1', 'IL1', 'OD2', 'GL1', 'IR1', 'FU1', 'HR1', 'GR1', 'OD1', 'XL1', 'HR1', 'GL1', 'DD1', 'AL3', 'DU1', 'EU1', 'BU1', 'XR1', 'GR1', 'XR1', 'OU2', 'HL2', 'FD1', 'IL1', 'GL1', 'QL1', 'PD3', 'XR2']
+branching factor:	7.348101265822785
+avg. function:	2.0161744022503516
+avg depth:	69.04424778761062
+min depth:	49
+max depth:	76
+
+
+
+
+Total time:	25.408231735229492
+Total solved:	38
+
